@@ -1,6 +1,5 @@
 # Hi there, I'm Virat Gandhi 👋
 
-**Quantitative Risk & Analytics Engineer**
 
 I specialize in building statistical models, analysing complex financial data, and designing robust risk frameworks. My background spans quantitative finance, statistical learning, and macroeconomic econometrics, and I focus on applying these tools to solve complex challenges across business and finance.
 
