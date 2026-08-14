@@ -2,7 +2,7 @@
 
 **Quantitative Risk & Analytics Engineer**
 
-I specialize in building production ML models, engineering real-time Big Data pipelines, and designing robust risk frameworks. My background spans quantitative finance, statistical learning, and macroeconomic econometrics, and I focus on applying these tools to solve complex challenges across business and finance.
+I specialize in building statistical models, analysing complex financial data, and designing robust risk frameworks. My background spans quantitative finance, statistical learning, and macroeconomic econometrics, and I focus on applying these tools to solve complex challenges across business and finance.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viratgandhi/)
 
